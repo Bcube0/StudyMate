@@ -1,0 +1,10 @@
+#Tue Oct 08 16:46:45 NPT 2024
+base.2=/Users/nikeshghadage/CODEPLATEAU/PRACTICE/Practice/android/app/build/intermediates/dex/release/mergeDexRelease/classes3.dex
+path.2=classes3.dex
+base.1=/Users/nikeshghadage/CODEPLATEAU/PRACTICE/Practice/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/nikeshghadage/CODEPLATEAU/PRACTICE/Practice/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FontleroyBrownNF.ttf",
+      "sha1": "f3da8bb6e3c9fbb3bf8961bae5af429d75d49071"
+    },
+    {
+      "path": "assets/fonts/LoversQuarrel-Regular.ttf",
+      "sha1": "79efc3ee1550c75f7e385f946cd5d71dd2a80e7c"
+    },
+    {
+      "path": "assets/fonts/Montez-Regular.ttf",
+      "sha1": "c40de77e92c4925a0187fc1d814778579e223b6b"
+    },
+    {
+      "path": "assets/fonts/Nemo Nightmares.ttf",
+      "sha1": "dfa797b1c3e6922c94ab1452d752c132d538688e"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "c23ede86996d8239865bcd04c806e3789aaa0b94"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "051b6b2acbd0e33252870dc28045ba27ae0acd77"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Medium.ttf",
+      "sha1": "f886dd439250f2a8a7326f3f6b433adf34c96fe8"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "9a19a459ca7bca15d2de8269b80411f2b4a71ccf"
+    },
+    {
+      "path": "assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "30fcdd8f737e6a86abda2d643d2f23c5286c4663"
+    },
+    {
+      "path": "assets/fonts/Yellow-Ginger.ttf",
+      "sha1": "f2165414e0699851a8a48520729d104380e13e23"
+    },
+    {
+      "path": "assets/fonts/akaDora.ttf",
+      "sha1": "e0c5d46e9b43cef8500e1b85b71b5270235e20e0"
+    }
+  ]
+}
